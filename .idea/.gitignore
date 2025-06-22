@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Системные файлы
+.DS_Store
+thumbs.db
